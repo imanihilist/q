@@ -3,9 +3,40 @@
 <head>
   <meta charset="UTF-8">
   <title>nihilist.lol</title>
-  <script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool'></script>
    <link rel="icon" href="https://static.wikia.nocookie.net/riamubot/images/5/51/Furry_yamu.png/revision/latest?cb=20210809053051" type="image/png">
   <style>
+
+  @import url("https://fonts.googleapis.com/css2?family=Heebo&family=Inter:wght@300;500;600;900&display=swap");
+
+      /* Body */
+      body {
+        font-family: "Heebo", sans-serif;
+        font-family: "Inter", sans-serif;
+        background: #171717;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 90vh;
+      }
+
+      /* Links */
+      .links {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .links > * {
+        padding: 10px;
+      }
+
+      /* Icons */
+      img {
+        height: 25px;
+        width: 25px;
+      }
+
     body {
       background-color: black;
       color: white;
@@ -18,16 +49,6 @@
       align-items: center;
       justify-content: center;
     }
-    a {
-      color: white;
-      font-size: 14.4px;
-      text-decoration: none;
-      border: 1px solid #555;
-      border-radius: 4px;
-      padding: 6.4px 16px;
-      display: inline-block;
-    }
-
     a.mention {
   text-decoration: underline;
   border: none;
@@ -60,11 +81,9 @@ nihilist
   <div style="font-size:17.6px; line-height:1.6; margin-bottom:32px; max-width:800px;"></div>
 
   <div style="display:flex; flex-direction:column; row-gap:12.8px;">
-    <div style="font-size: 14.4px; color: #999;">
-  Telegram: <a target="_blank" href="https://t.me/palantirguy" class="mention">@palantirguy</a>
-    </div>
-    <div style="font-size: 14.4px; color: #999;">
-  Mail: <a target="_blank" href="mail:mail@nihilist.lol" class="mention">mail@nihilist.lol</a>
+    <div class="links">
+      <a href="https://t.me/palantirguy" target="_blank"><img src="email.svg" alt="Couldn't load Discord icon."></a>
+      <a href="mailto:mail@nihilist.lol" target="_blank"><img src="tele.png" alt="Couldn't load Discord icon."></a>
     </div>
     <div style="font-size: 14.4px; color: #999;">
   PGP: <a target="_blank" href="https://nihilist.lol/pgp.txt" class="mention">Key</a>
