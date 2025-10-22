@@ -1,0 +1,482 @@
+
+
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║       Kadenholic will deny every single piece of this dox even though I have concrete proof of it being accurate, you have been warned.         ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ .      .       .    .       .    .      .     .  .      .       .    .       .    .      .     .  .      .       .    .       .    .      .    .║
+║ .     .    .      .      .  +   .    .   .    .   . .     .    .      .      .  +   .    .   .    .   . .     .    .      .      .  +   .    .  ║
+║  .           .     +       .    +    .    +  . ███  █████   +   ███  ████   ███.  .      . █████    .     .    .      .      .  +   .    .   .  ║
+║       .        +     .      .        .       + ▒▒▒  ▒▒███    .  ▒▒▒  ▒▒███  ▒▒▒   .   .   ▒▒███ .      .      .  +  .     .   .      .   .      ║
+║+    .  .      .       .    .       .████████   ████  ▒███████   ████  ▒███  ████   █████  ███████ .    .   +    .    .   .    .    +     ..    .║
+║    .    .    +     .     .  .      ▒▒███▒▒███ ▒▒███  ▒███▒▒███ ▒▒███  ▒███ ▒▒███  ███▒▒  ▒▒▒███▒.  .      .       .    .       .    .      .    ║
+║      .  +  .     .   .      .   .   ▒███ ▒███  ▒███  ▒███ ▒███  ▒███  ▒███  ▒███ ▒▒█████   ▒███ .    +    .    +  .   .   + .    .       .      ║
+║.     .    .      .      .  +   .    ▒███ ▒███  ▒███  ▒███ ▒███  ▒███  ▒███  ▒███  ▒▒▒▒███  ▒███ ███ +      .       .      .      .    .     .   ║
+║+    .  .      .       .    .       .████ █████ █████ ████ █████ █████ █████ █████ ██████   ▒▒█████      https://nihilist.lol + .    .       .   ║
+║.     .  .    .    .  +   .   +   . ▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒▒     ▒▒▒▒▒   +    .       .     .        .    .   .  +   ║
+║   +    .       .     .        .    .   .  +    .      +    .      .     .       .    .    .   +    .       .     .        .    .   .  +    .    ║
+║  .   .    .   +    .    .   .    .    +     .     .  .    .    .  +   .   +   .     .    .   .   .    .   +    .    .   .    .    +     .     . ║
+║     .           .     +       .    +    .    +  .   .   +   .     .       +     .     .    .    .           .     +       .    +    .    +  .   ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x00 - Table of Contents]▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║                                                                  /\                                                                             ║
+║                                                                  /\                                                                             ║
+║                                                                  /\                                                                             ║
+║                                                                  /\                                                                             ║
+║                                                                _`=='_                                                                           ║
+║                                                             _-»......»-_                                                                        ║
+║                                                         _--»............»--_                                                                    ║
+║                                                   __--»»....................»»--__                                                              ║
+║                                       .___..---»»»................................»»»---..___,                                                  ║
+║                                        `=.________________________________________________,='                                                   ║
+║                                           @^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@                                                      ║
+║                                                    |  |  I   I   II   I   I  |  |                                                               ║
+║                                                    |  |__I___I___II___I___I__|  |                                                               ║
+║                                                    | /___I_  I   II   I  _I___\ |                                                               ║
+║                                                    |'_     »»»»»»»»»»»»»»     _`|                                                               ║
+║                                                 __-»...»»»»»--------------»»»»»...»-__                                                          ║
+║                                         ___---»»......................................»»---___                                                  ║
+║                             .___..---»»»......................................................»»»---..___,                                      ║
+║                              `=.______________________________________________________________________,='                                       ║
+║                                 @^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@                                          ║
+║                                           |   |    | |    |  |    ||    |  |    | |    |   |                                                    ║
+║                                           |   |____| |____|  |    ||    |  |____| |____|   |                                                    ║
+║                                           |__________________|____||____|__________________|                                                    ║
+║                                         _-|_____|_____|_____|__|------|__|_____|_____|_____|-_                                                  ║
+║                           ╔═════════════════════════════════════════════════════════════════════════════════╗                                   ║
+║                           ║                             -= Table of Contents =-                             ║                                   ║
+║                           ║                                                                                 ║                                   ║
+║                           ║           // 0x00 - Intro                  // 0x04 - Emails                     ║                                   ║
+║                           ║           // 0x01 - Media                  // 0x05 - Passwords                  ║                                   ║
+║                           ║           // 0x02 - Personal Info          // 0x06 - Message Logs               ║                                   ║
+║                           ║           // 0x03 - Socials                // 0x07 - PC Info / Intelx ID        ║                                   ║
+║                           ║                                                                                 ║                                   ║
+║                           ╚═════════════════════════════════════════════════════════════════════════════════╝                                   ║
+║                                  https://doxbin.com/user/nihilistlol  https://doxbin.com/user/krone                                             ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║  Introduction :                                                                                                                                 ║
+║  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                                 ║
+║                                                                                                                                                 ║
+║           &&&&&                      Kadenholic is a extorter that gets thousands of views on tiktok taunting about his extortions              ║
+║         &&&\/& &&&              He has a ragebait personality under the alias kadenholic/lureholic where he not only extorts 13-16              ║
+║        &&|,/  |/& &&            year old girls but also creates tiktoks to encourage extortion, videos like his caused a epidemic of            ║
+║         &&/   /  /_&  &&        newgen extorters to rise from roblox. Theres cases of clear pedophilia on his page aswell posting               ║
+║           \  {  |_____/_&       videos like "ageplaying with my 13 year old ekitten doolhouse rp.                                               ║
+║           {  / /          &&&                                                                                                                   ║
+║           `, \{___________/_&&                                                                                                                  ║
+║            }{{         \____&║      Kadenholic claims to have perfect opsec, he taunts people that attempt to dox him. Not only that,           ║
+║           {}{           `&\&&   he has a massive ego for no fucking reason and loves to talk about his pedophilic actions right infront         ║
+║           {{}             &&    of my face. This is unacceptable, lets get into the dox.. Please look at screenshots to understand the paste.   ║
+║     , -=-»{ .-^- _                                                                                            Love, Nihilist.                   ║
+║           `}                                                                                                                                    ║
+║            {                                                                                                                                    ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x01 - Media]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║                  Ageplay Messages                                   IRL/Face                                    Loser Activity                  ║
+║                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾               ║
+║        https://files.catbox.moe/exdowf.png            https://files.catbox.moe/z622eo.png             https://files.catbox.moe/ew1k8v.png       ║
+║        https://files.catbox.moe/ww4nt2.png            https://files.catbox.moe/pc8uo0.png             https://files.catbox.moe/pym7co.png       ║
+║        https://files.catbox.moe/ctjs3w.png                                                            https://files.catbox.moe/eg71ca.png       ║
+║                                                                                                       https://files.catbox.moe/4n2mjl.png       ║
+║                                                                                                                                                 ║
+║                                      Tiktok Video Archives                           Tiktok Account Archive                                     ║
+║                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                     ║
+║                               https://files.catbox.moe/oe5gt7.mp4                   https://archive.ph/jgQKU                                    ║
+║                               https://files.catbox.moe/6rkt2d.mp4                                                                               ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x02 - Personal]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║  » Aliases: kadenholic                                                                                                                          ║
+║        kadennholic                          _..._                                                                                               ║
+║        kadenholicc                        .'     '.      _                                                                                      ║
+║        kadenholic4                       /    .-""-\   _/ \                                                                                     ║
+║        kadenholic5                     .-|   /:.   |  |   |                                                                                     ║
+║        Kadengowild                     |  \  |:.   /.-'-./                                                                                      ║
+║        kadenheartsbria                 | .-'-;:__.'    =/                                                                                       ║
+║        wrd2kadenn                       .'=  *=|     _.='                                                                                       ║
+║        wrd2kayden                        /   _.  |    ;                                                                                         ║
+║        FistStrenthMain                   ;-.-'|    \   |                                                                                        ║
+║        12k_kaden                         ;-.-'|    \   |                                                                                        ║
+║        sixxwrds                         /   | \    _\  _\                                                                                       ║
+║        kayitsiz                         \__/'._;.  ==' ==\                                                                                      ║
+║        fatherlyboyf                              \    \   |                                                                                     ║
+║        loresite n                                /    /   /                                                                                     ║
+║        kaden764                                  /-._/-._/                                                                                      ║
+║        kadenn                                    \   `\  \                                                                                      ║
+║        kadenkittenarmy                            `-._/._/                                                                                      ║
+║        MonarchySaver                                                                                                                            ║
+║        disappear0912                                                                                                                            ║
+║        Communistruler9                                                                                                                          ║
+║        getbackson                                                                                                                               ║
+║        nonchalant warrior                                                                                                                       ║
+║        sexting764                                                                                                                               ║
+║        society                                                                                                                                  ║
+║        wspkadenn                                                                                                                                ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║  » Name: Kaden Mont                                                                                                                             ║
+║  » DOB:  9/12/2008                                                                                                                              ║
+║                                                                                                                                                 ║
+║  » Address: 1114 W 53rd St, Minneapolis, MN 55419                                                                                               ║
+║  » School: Minneapolis Public School District (Current) 5701 W Frontage Rd, Edina, MN 55424 (OLD)                                               ║
+║  » Parent Adress: 225 Minnesota St E, Cannon Falls, MN 55009                                                                                    ║
+║                                                                                                                                                 ║
+║  » House Price: $583,800 // $2,657/mo                                                                                                           ║
+║  » Father: Jayden Mont                                                                                                                          ║
+║  » Mother: Lucia Mott/Valencia                                                                                                                  ║
+║                                                                                                                                                 ║
+║  » Ethnicity: Columbian                                                                                                                         ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x03 - Socials]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  »     Discord Accounts                                                         +    .      +    .      .     .       .    .    .   +    .      ║
+║        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                               .  +  .     .   .      .   .     .    +    .  .      .    ║
+║         Discord: @kadenholic                                                     .     .  .    .    .  +   .   +   .     .    .   .   .    . +  ║
+║         » Status: TERMED                                                        +    .      +    .      .     .       .    .    .   +    .      ║
+║         » ID: 1407216980867547326                                                   .   .  .   .    +      .      .      .    +    .     .    . ║
+║         » Creation Date: Tue, 19 Aug 2025 04:17:53 UTC                            +  .   .   +   .     .       +     .     .    .    .          ║
+║         » PFP: https://files.catbox.moe/sqlytv.png                                    .  +  .     .   .      .   .     .    +    .  .      .    ║
+║                                                                                  .     .  .    .    .  +   .   +   .     .    .   .   .    .  + ║
+║        Discord: @mysteriouskaden                                                +    .      +    .      .     .       .    .    .   +    .      ║
+║         » Status: TERMED                                                            .   .  .   .    +      .      .      .    +    .     .    . ║
+║         » ID: 1397999858480058408                                                     .  +  .     .   .      .   .     .    +    .  .      .    ║
+║         » Creation Date: Thu, 24 Jul 2025 17:52:19 UTC                         + .   . +    .  +  .     .   .      .   .     .    +    .  .     ║
+║         » PFP: https://files.catbox.moe/vm2mf0.png                               .     .  .    .    .  +   .   +   .     .    .   .   .    .  + ║
+║                                                                                 +    .      +    .      .     .       .    .    .   +    .      ║
+║         Discord: @kadenholicc -- has rblx linked but rblx is termed             .   .   .  .   .    +      .      .      .    +    .     .    . ║
+║         » Status: TERMED                                                          +  .   .   +   .     .       +     .     .    .    .          ║
+║         » ID: 1382144480706302032                                              .  .   .  +  .     .   .      .   .     .    +    .  .      .    ║
+║         » Creation Date: Tue, 10 Jun 2025 23:48:43 UTC                            +  .   .   +   .     .       .     .     .    .    .          ║
+║         » PFP: https://files.catbox.moe/skk4z2.png                                    .  +  .     .   .      .   .     .    +    .  .      .    ║
+║                                                                                  .     .  .    .    .  +   .   +   .     .    .   .   .    .  + ║
+║         Discord: @kadenholic5                                                   +    .      +    .      .     .       .    .    .   +    .      ║
+║         » Status: ACTIVE                                                        .   .   .  .   .    +      .      .      .    +    .     .    . ║
+║         » ID: 1423971995300790403                                                 +  .   .   +   .     .       +     .     .    .    .          ║
+║         » Creation Date: Sat, 04 Oct 2025 09:56:19 UTC                         .  .   .  +  .     .   .      .   .     .    +    .  .      .    ║
+║         » PFP: https://files.catbox.moe/st29fa.png                              +    .      +    .      .     .       .    .    .   +    .      ║
+║                                                                                       .  +  .     .   .      .   .     .    +    .  .      .    ║
+║         Discord: @kadenholic4                                                   .   +    .       .      .     .       .    .    .   +    .      ║
+║         » Status: ACTIVE                                                       + .   . +    .  +  .     .   .      .   .     .    +    .  .     ║
+║         » ID: 1422712029353087070                                                .     .  .    .    .  +   .   +   .     .    .   .   .    .  + ║
+║         » Creation Date: Tue, 30 Sep 2025 22:29:40 UTC                           .     .         .  .  + +   .     .     .    .   .   .    . +  ║
+║         » PFP: https://files.catbox.moe/st29fa.png                              +   .     .+  .    .    .     .    .     .    .   +   .    .  . ║
+║                                                                                + .   . +    .  +  .     .   .      .   .     ... +     .  .     ║
+║        Discord: @loreholic3                                                     .   .   .  .   .    +      .      .      .    +    .     .    . ║
+║        » Status: Termed                                                             .   .  +   .    .      .      .    .    +    .     .    .   ║
+║        » ID: 1418895947429183601                                                   +    .  .   .    +      .      .      .    +    .     .    . ║
+║        » Creation Date: Sat, 20 Sep 2025 09:45:55 UTC                            .     .  .    .    .  +   .   +   .     .    .   .   .    . +  ║
+║                                                                                + .   . +    .  +  .     .   .      .   .     .    +    .  .     ║
+║         Discord: @sillycomboy123                                                  +  .   .   +   .     .       .     .     .    .    .          ║
+║         » Status: Termed                                                         .     .  .    .    .  +   .   .   .     .    .   .   +    .  + ║
+║         » ID: 1264652439361945610                                              . .   . +    .  +  .     .   .      .   .     .. +     .  .      ║
+║         » Creation Date: Sun, 21 Jul 2024 18:37:17 UTC                          +    .      +    .      .     .       .    .    .   +    .      ║
+║                                                                                                                                                 ║
+║ »     Socials                                                                                                                                   ║
+║       ‾‾‾‾‾‾‾                                                                                                                                   ║
+║              TikTok: https://www.tiktok.com/@kadenholic [DELETED]            Xbox: https://www.xbox.com/en-US/play/user/kadenholic              ║
+║              » PFP: https://files.catbox.moe/0k9h7r.jpeg                     » PFP: https://files.catbox.moe/024jbd.png                         ║
+║              » Display: kadenholic                                           » Gamerscore: 410                                                  ║
+║                                                                              » Device: Xboxone                                                  ║
+║                                                                              » Last Seen: 97d Ago: ROBLOX                                       ║
+║              TikTok: https://www.tiktok.com/@kadennholic [ACTIVE]                                                                               ║
+║              » PFP: https://files.catbox.moe/l18oqy.jpg                      Twitter/X: https://x.com/kadenholic                                ║
+║              » Display: kadenholic                                           » Status: TERMED                                                   ║
+║                                                                                                                                                 ║
+║              Telegram: https://t.me/kadenholic                               Twitter/X: https://x.com/kadennholic                               ║
+║              » Channel ID: -1002475711033                                    » Status: Active                                                   ║
+║                                                                              » Join Date: October 2025                                          ║
+║              https://www.snapchat.com/@wspkadenn                                                                                                ║
+║                                                                                                                                                 ║
+║              Telegram: https://t.me/@begforkaden                             Twitter/X: https://x.com/fatherlyboyf                              ║
+║              » Status: Active                                                » Status: Active                                                   ║
+║              » ID: 8472749932                                                » Join Date: October 2025                                          ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║              Instagram: https://www.instagram.com/kadennholic                                                                                   ║
+║                                                                     Roblox Group: https://www.roblox.com/communities/34325339/nomercyk#         ║
+║              Guns.lol: https://guns.lol/wrd2kadenn                  » Members: 11                                                               ║
+║              » Name: wrd2kadenn                                                                                                                 ║
+║              » Bio: i <3 fansigns                                                                                                               ║
+║              » UID: 241,884                                                                                                                     ║
+║              » Views: 421                                                                                                                       ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x04 - Email]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║  kadennn577@gmail.com                                                                                                                           ║
+║  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                         /  Amazon.com                                                                                     ║
+║  »     GUID : 106306638851165771518          /   Wattpad.com                                                                                    ║
+║  »     Name : kayden                        []    Discord.com   Tellonym.me                                                                     ║
+║  » Recovery : k•••••••@gmail.com             \   Twitter.com                                                                                    ║
+║  »   Status : Inactive                        \  Github.com                                                                                     ║
+║  »   Profile : https://lh3.googleusercontent.com/a-/ALV-UjVTRy7_zwXvhXkBNrRnxDysCG_m2dXPJwylmCwkS-ir_D41Tqk                                     ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║  jmontt577@icloud.com                                                                                                                           ║
+║  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                         /  Apple.com                                                                                      ║
+║  »     GUID : XXXX                           /   Replit.com                                                                                     ║
+║  »     Name : N/A                           []    Amazon.com                                                                                    ║
+║  » Recovery : j•••••••@gmail.com             \   Twitter.com                                                                                    ║
+║  »   Status : Inactive                        \  Duolingo.com                                                                                   ║
+                                                                                                                                                  ║
+║  kadenholic@gmail.com                                                                                                                           ║
+║  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                    /                                                                                                 ║
+║  »     GUID : 118135766116414713062          /                                                                                                  ║
+║  »     Name : kadenn kadenn                 []   Amazon.com                                                                                     ║
+║  » Recovery : xxxxx                          \   Discord.com                                                                                    ║
+║  »   Status : Inactive                        \                                                                                                 ║
+║                                                                                                                                                 ║
+║  kadenholic@proton.me                                                                                                                           ║
+║  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                      /                                                                                                 ║
+║  »     GUID : xxxxx                          /                                                                                                  ║
+║  »     Name : xxxxx                        []   Protonmail.ch                                                                                   ║
+║  » Recovery : xxxxx                          \                                                                                                  ║
+║  »   Status : Inactive                        \                                                                                                 ║
+║  »   Source : https://api.protonmail.ch/pks/lookup?op=index&search=kadenholic@protonmail.com                                                    ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x05 - Passwords]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║                                             .                  .-.    .  _   *     _   .                                                        ║
+║                                                    *          /   \     ((       _/ \       *    .                                              ║
+║                                                  _    .   .--'\/\_ \     `      /    \  *    ___                                                ║
+║                                              *  / \_    _/ ^      \/\'__        /\/\  /\  __/   \ *                                             ║
+║                                                /    \  /    .'   _/  /  \  *' /    \/  \/ .`'\_/\   .                                           ║
+║                                           .   /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _                                            ║
+║                                              /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \                                           ║
+║                                            /\  .-   `. \/     \ / -.   _/ \ -. `_/   \ /    `._/  ^  \                                          ║
+║                                           /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.                                        ║
+║                                         @/        `.  / /      `-.   /  .-'   / .   .'   \    \  \  .-  \%                                      ║
+║                                         @&8jgs@@%% @)&@&(88&@.-_=_-=_-=_-=_-=_.8@% &@&&8(8%@%8)(8@%8 8%@)%                                      ║
+║                                         @88:::&(&8&&8:::::%&`.~-_~~-~~_~-~_~-~~=.'@(&%::::%@8&8)::&#@8::::                                      ║
+║                                         `::::::8%@@%:::::@%&8:`.=~~-.~~-.~~=..~'8::::::::&@8:::::&8:::::'                                       ║
+║                                          `::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.'                                        ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║  https://login.oracle.com/mysso/signon.jsp  |  kadennn57  |  XLuhSd629Tg6.E=                                                                    ║
+║  https://forums.lucidcityrp.com/forum/53-applications/  |  Kaden Nicole  |  1234Snoopy56                                                        ║
+║  https://discord.com/channels/874336810426323024/874336810426323027  |  Brayden  |  1234Snoopy56                                                ║
+║  https://login.live.com/login.srf  |  notkarljayden68@gmail.com  |  ILoveAnabell                                                                ║
+║  https://discord.com/channels/874336810426323024/874336810426323027  |  honk  |  1234Snoopy56                                                   ║
+║  https://discord.com/channels/@me  |  Mog  |  1234Snoopy56                                                                                      ║
+║  https://signup.live.com/signup  |  kadennn57@Gmail.com  |  1234Sept2213                                                                        ║
+║  https://profile.oracle.com/myprofile/account/create-account.jspx  |  kadennn57@gmail.com  |  XLuhSd629Tg6.E=                                   ║
+║  https://minecraft-mp.com/register/  |  kadennn577@gmail.com  |  DUdDE$2nUD!8T#Q                                                                ║
+║  https://www.kraken.com/sign-up  |  UzlDream  |  29!Ci2EkVj8WksR                                                                                ║
+║  https://www.twitch.tv/  |  kadennmc  |  @RYKVc)k97;kx%R                                                                                        ║
+║  https://discord.com/channels/@me  |  Mog 2.0  |  1234Snoopy56                                                                                  ║
+║  https://www.roblox.com/  |  mcloving2213  |  DogsAreUgly                                                                                       ║
+║  https://www.roblox.com/login  |  UzlDream  |  Urcute1234                                                                                       ║
+║  https://www.g2a.com/page/register  |  kadennn57@gmail.com  |  sejvKEM!gU@$ZU7                                                                  ║
+║  https://na.recovery.riotgames.com/en/forgot-password |  k3dennn  |  1234Snoopy56!                                                              ║
+║  https://store.steampowered.com/login/  |  eastfargos  |  MXH8iQXndSdJeWg                                                                       ║
+║  android://zQxb6hXv1MJiC1Y...9FA==@com.facebook.orca/  |  2088138097  |  1234Snoopy56!                                                          ║
+║  https://help.steampowered.com/en/login/  |  eastfargos  |  MXH8iQXndSdJeWg                                                                     ║
+║  https://www.nopixel.net/upload/index.php  |  wtfkadenn  |  1234Snoopy56                                                                        ║
+║  android://BnX9M66KmaqmzgqWgQxmb...quAP2JTpypk9qobA6PGMA==@com.discord/  |  kadennn57@gmail.com  |  1234Moose56@                                ║
+║  https://www.technicpack.net/register  |  kadennn57@gmail.com  |  U9xT_P#.Y@m@rJC                                                               ║
+║  https://socialclub.rockstargames.com/settings  |  azumedee@gmail.com  |  1234Snoopy56                                                          ║
+║  https://login.live.com/  |  kadennn57@Gmail.com  |  1234Sept2213                                                                               ║
+║  https://2fast.racing/forums/login/login  |  kadennn57@gmail.com  |  1234Snoopy56!                                                              ║
+║  https://www.warframe.com/login  |  kadennn57@gmail.com  |  1234Snoopy56!                                                                       ║
+║  https://na.account.amazon.com/ap/signin  |  kadennn57@gmail.com  |  1234Snoopy56                                                               ║
+║  ttps://discord.com/login  |  jmontt577@icloud.com  |  1234Snoopy56!                                                                            ║
+║  https://discord.com/channels/@me  |  kafennn  |  1234Snoopy56                                                                                  ║
+║  android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOL...z3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.orca/  |  kadennn57@gmail.com  |  1234Snoopy56          ║
+║  android://47sqH1qEyjrAcj2FQUUPF61XgATkyACO2sn...C2GYrMWLxlTNEe0vAQ==@com.zhiliaoapp.musically/  |  jmontt577@icloud.com  |  1234Snoopy56@      ║
+║  https://secure.square-enix.com/oauth/oa/oauthlogin  |  kafenn  |  1234Snoopy56!                                                                ║
+║  https://ptb.discord.com/login  |  jmontt577@icloud.com  |  1234Snoopy56!                                                                       ║
+║  https://forums.homecomingservers.com/register/  |  kafennn  |  pa2NEqA@Y6vya4a                                                                 ║
+║  https://www.roblox.com/NewLogin  |  123Iseehowitis  |  1234Snoopy56                                                                            ║
+║  https://account.live.com/acsr  |  notkarljayden68@gmail.com  |  ILoveAnabell                                                                   ║
+║  android://iE29hy0V9oNJn...BF2CUvuB-9BpFn6moUn91AA==@com.zjw.apps3pluspro/  |  bentleygibson28@gmail.com  |  123moose                           ║
+║  https://sso.crunchyroll.com/login  |  lordfeff1@gmail.com  |  Marduke1                                                                         ║
+║  https://www.bestbuy.com/  |  kadennn57@gmail.com  |  1234Snoopy56                                                                              ║
+║  https://login.live.com/login.srf  |  1317042273@nsd131.org  |  1234Sept2213                                                                    ║
+║  https://identity.walmart.com/account/login  |  bentleygison23@gmail.com  |  sUrfMonkey213&_                                                    ║
+║  https://carrd.co/build/e368a581129b5a48  |  kaden  |  1234Snoopy56                                                                             ║
+║  https://www.tiktok.com/@kaden.xon  |  kaden.xon  |  1234Snoopy56@                                                                              ║
+║  https://discord.com/login  |  kadennn57@gmail.com  |  1234Moose56@                                                                             ║
+║  https://www.messenger.com/  |  kadennn57@gmail.com  |  1234Snoopy56                                                                            ║
+║  android://zQxb6hXv1MJiC1Yyotdhi8HP-...VsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/  |  2088138097  |  1234Snoopy56!                            ║
+║  https://id.logi.com/  |  kadennn57@gmail.com  |  1234Snoopy56@                                                                                 ║
+║  https://www.spotify.com/us/signup  |  kadennn57@gmail.com  |  T44Dvfr7c#Aai3Z                                                                  ║
+║  https://launchpad.classlink.com/nsd131  |  1317042273  |  W3lcomeback!                                                                         ║
+║  https://auth.minetogether.io/auth/realms/MineTogether/login-actions/registration  |  kafennn  |  UZw2BwQ5t_3vqp9                               ║
+║  android://47sqH1qEyjrAcj2FQUUPF61XgATkyA...vAQ==@com.zhiliaoapp.musically/  |  kaden.xon                                                       ║
+║  https://auth.max.com/login  |  doldonn@outlook.com  |  Marduke1                                                                                ║
+║  https://www.ixl.com/signin/novaid  |  jmontalbano  |  brown12                                                                                  ║
+║  https://idmsa.apple.com/appleauth/auth/authorize/signin  |  jmontt577@icloud.com  |  1234Moose56@                                              ║
+║  https://www.epicgames.com/id/link/steam/new  |  kadennn57@gmail.com  |  9iC9aJPeb@.V8q=                                                        ║
+║  https://users.nexusmods.com/auth/sign_up  |  kadenn34  |  1234Snoopy56                                                                         ║
+║  https://appleid.apple.com/auth/authorize  |  jmontt577@icloud.com  |  1234Moose56@                                                             ║
+║  https://login.live.com/ppsecure/post.srf  |  kadennn57@gmail.com  |  1234Snoopy56@                                                             ║
+║  https://www.netflix.com/login  |  doldonn@outlook.com  |  Marduke1976                                                                          ║
+║  https://rumble.com/register.php  |  kadennn57  |  1234Snoopy56                                                                                 ║
+║  https://login.g2a.com/login/social/sl-100  |  kadennn57@gmail.com  |  sejvKEM!gU@$ZU7                                                          ║
+║  https://auth.riotgames.com/login  |  k3dennn  |  1234Snoopy56!                                                                                 ║
+║  android://YkZCKJXb71lVmACIgJotSVEj1soQEB7xAx...zfrKjHxHmFrjScg==@com.apple.android.music/  |  jmontt577@icloud.com  |  1234Snoopy56            ║
+║  https://account.live.com/proofs/MarkLost  |  kadennn57@Gmail.com  |  1234Sept2213                                                              ║
+║  https://www.messenger.com/login/password/  |  2088138097  |  1234Snoopy56                                                                      ║
+║  https://accounts.google.com/v3/signin/challenge/pwd  |  kadennn57@gmail.com  |  1234Snoopy56                                                   ║
+║  https://www.unknowncheats.me/forum/register.php  |  imgaywithpoopin  |  1234Snoopy56                                                           ║
+║  https://idaho.tylertech.cloud/SRL/Account/Login  |  kelliegibson5@gmail.com  |  Sept2213!                                                      ║
+║  https://www.roblox.com/NewLogin  |  snakebandit50  |  123moose                                                                                 ║
+║  https://www.roblox.com/NewLogin  |  UzlDream  |  123moose                                                                                      ║
+║  https://discord.com/login  |  jmontt577@gmail.com.com  |  1234Snoopy56                                                                         ║
+║  https://discord.com/login  |  jmontt577@icloud.com  |  1234Sept2213                                                                            ║
+║  https://appleid.apple.com/auth/authorize  |  jmontt577@icloud.com  |  1234Snoopy56                                                             ║
+║  https://www.roblox.com/  |  woffaldh  |  123moose                                                                                              ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x06 - Message Log]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║                                                                                                                                                 ║
+║		{                                                                                                                                         ║
+║			"id": "1403932366040338542",                                                                                                          ║
+║			"userId": "1397999858480058408",                                                                                                      ║
+║			"username": "mysteriouskaden",                                                                                                        ║
+║			"displayName": "kadenholic",                                                                                                          ║
+║			"content": "ur delusional over her and thinks every nigga wants her",                                                                 ║
+║			"type": "DEFAULT",                                                                                                                    ║
+║			"date": "2025-08-10 02:45:59.000",                                                                                                    ║
+║			"avatarURL": "https://cdn.discordapp.com/avatars/1397999858480058408/9fcaa99f2900e842c8bc4d3bd535413d.png?size=2048",                 ║
+║			"bannerURL": "",                                                                                                                      ║
+║			"embeds": [],                                                                                                                         ║
+║			"guildId": "1320771236057583706",                                                                                                     ║
+║			"guildName": "/begged ^_^",                                                                                                           ║
+║			"channelId": "1403921108725661749",                                                                                                   ║
+║			"channelName": "txt",                                                                                                                 ║
+║			"attachments": [],                                                                                                                    ║
+║			"stickers": "[]",                                                                                                                     ║
+║			"identityGuildId": "",                                                                                                                ║
+║			"identityEnabled": 0,                                                                                                                 ║
+║			"guildTag": "",                                                                                                                       ║
+║			"guildBadge": "",                                                                                                                     ║
+║			"polls": "",                                                                                                                          ║
+║			"guildIconHash": "6c38f4ab53a551dabc025d04d6763668"                                                                                   ║
+║		},                                                                                                                                        ║
+║		{                                                                                                                                         ║
+║			"id": "1403932327138037812",                                                                                                          ║
+║			"userId": "1397999858480058408",                                                                                                      ║
+║			"username": "mysteriouskaden",                                                                                                        ║
+║			"displayName": "kadenholic",                                                                                                          ║
+║			"content": "only person that wants kaylen is u",                                                                                      ║
+║			"type": "DEFAULT",                                                                                                                    ║
+║			"date": "2025-08-10 02:45:50.000",                                                                                                    ║
+║			"avatarURL": "https://cdn.discordapp.com/avatars/1397999858480058408/9fcaa99f2900e842c8bc4d3bd535413d.png?size=2048",                 ║
+║			"bannerURL": "",                                                                                                                      ║
+║			"embeds": [],                                                                                                                         ║
+║			"guildId": "1320771236057583706",                                                                                                     ║
+║			"guildName": "/begged ^_^",                                                                                                           ║
+║			"channelId": "1403921108725661749",                                                                                                   ║
+║			"channelName": "txt",                                                                                                                 ║
+║			"attachments": [],                                                                                                                    ║
+║			"stickers": "[]",                                                                                                                     ║
+║			"identityGuildId": "",                                                                                                                ║
+║			"identityEnabled": 0,                                                                                                                 ║
+║			"guildTag": "",                                                                                                                       ║
+║			"guildBadge": "",                                                                                                                     ║
+║			"polls": "",                                                                                                                          ║
+║			"guildIconHash": "6c38f4ab53a551dabc025d04d6763668"                                                                                   ║
+║		},                                                                                                                                        ║
+║		{                                                                                                                                         ║
+║			"id": "1403932272293580902",                                                                                                          ║
+║			"userId": "1397999858480058408",                                                                                                      ║
+║			"username": "mysteriouskaden",                                                                                                        ║
+║			"displayName": "kadenholic",                                                                                                          ║
+║			"content": "nice one",                                                                                                                ║
+║			"type": "DEFAULT",                                                                                                                    ║
+║			"date": "2025-08-10 02:45:37.000",                                                                                                    ║
+║			"avatarURL": "https://cdn.discordapp.com/avatars/1397999858480058408/9fcaa99f2900e842c8bc4d3bd535413d.png?size=2048",                 ║
+║			"bannerURL": "",                                                                                                                      ║
+║			"embeds": [],                                                                                                                         ║
+║			"guildId": "1320771236057583706",                                                                                                     ║
+║			"guildName": "/begged ^_^",                                                                                                           ║
+║			"channelId": "1403921108725661749",                                                                                                   ║
+║			"channelName": "txt",                                                                                                                 ║
+║			"attachments": [],                                                                                                                    ║
+║			"stickers": "[]",                                                                                                                     ║
+║			"identityGuildId": "",                                                                                                                ║
+║			"identityEnabled": 0,                                                                                                                 ║
+║			"guildTag": "",                                                                                                                       ║
+║			"guildBadge": "",                                                                                                                     ║
+║			"polls": "",                                                                                                                          ║
+║			"guildIconHash": "6c38f4ab53a551dabc025d04d6763668"                                                                                   ║
+║		},                                                                                                                                        ║
+║		{                                                                                                                                         ║
+║			"id": "1403932256447234110",                                                                                                          ║
+║			"userId": "1397999858480058408",                                                                                                      ║
+║			"username": "mysteriouskaden",                                                                                                        ║
+║			"displayName": "kadenholic",                                                                                                          ║
+║			"content": "lol",                                                                                                                     ║
+║			"type": "DEFAULT",                                                                                                                    ║
+║			"date": "2025-08-10 02:45:33.000",                                                                                                    ║
+║			"avatarURL": "https://cdn.discordapp.com/avatars/1397999858480058408/9fcaa99f2900e842c8bc4d3bd535413d.png?size=2048",                 ║
+║			"bannerURL": "",                                                                                                                      ║
+║			"embeds": [],                                                                                                                         ║
+║			"guildId": "1320771236057583706",                                                                                                     ║
+║			"guildName": "/begged ^_^",                                                                                                           ║
+║			"channelId": "1403921108725661749",                                                                                                   ║
+║			"channelName": "txt",                                                                                                                 ║
+║			"attachments": [],                                                                                                                    ║
+║			"stickers": "[]",                                                                                                                     ║
+║			"identityGuildId": "",                                                                                                                ║
+║			"identityEnabled": 0,                                                                                                                 ║
+║			"guildTag": "",                                                                                                                       ║
+║			"guildBadge": "",                                                                                                                     ║
+║			"polls": "",                                                                                                                          ║
+║			"guildIconHash": "6c38f4ab53a551dabc025d04d6763668"                                                                                   ║
+║		},                                                                                                                                        ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                    >>  Download the entire chatlog here @  https://files.catbox.moe/lqqp9b.txt  <<                              ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║      {                                                                        __----~~~~~~~~~~~------___                                        ║
+║       "ip": "75.98.153.193",                                      .  .   ~~//====......          __--~ ~~                                       ║
+║       "hostname": "75-98-153-193.cpe.net",-.                     \_|//     |||\\  ~~~~~~::::... /~                                              ║
+║       "city": "Nampa",                          ___-==_       _-~o~  \/    |||  \\            _/~~-                                             ║
+║       "region": "Idaho",                __---~~~.==~||\=_    -_--~/_-~|-   |\\   \\        _/~                                                  ║
+║      }                               _-~~     .=~    |  \\-_    '-~7  /-   /  ||    \      /                                                    ║
+║                                   .~       .~       |   \\ -_    /  /-   /   ||      \   /                                                      ║
+║                                  /  ____  /         |     \\ ~-_/  /|- _/   .||       \ /                                                       ║
+║                                  |~~    ~~|--~~~~--_ \     ~==-/   | \~--===~~        .\                                                        ║
+║                                           '         ~-|      /|    |-~\~~       __--~~                                                          ║
+║                                                       |-~~-_/ |    |   ~\_   _-~            /\                                                  ║
+║                                                            /  \     \__   \/~                \__                                                ║
+║                                                        _--~ _/ | .-~~____--~-/                  ~~==.                                           ║
+║                                                       ((->/~   '.|||' -_|    ~~-/ ,              . _||                                          ║
+║                                                                  -_     ~\      ~~---l__i__i__i--~~_/                                           ║
+║                                                                  _-~-__   ~)  \--______________--~~                                             ║
+║                                                                //.-~~~-~_--~- |-------~~~~~~~~                                                  ║
+║                                                                       //.-~~~--\                                                                ║
+║                                                                      _          _                                                               ║
+║                                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║[0x08 - Conclusion]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[nihilist.lol]║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                                 ║
+║        Kadenholic’s gonna do one of two things after this paste drops 😭 — either ghost the internet and delete all his socials🏃‍♂️💨             ║
+║       or start yappin’ like nothing happened 🗣️. Either way, it’s wraps for him cuz I got 100% confirmation on everything 🔥📂                  ║
+║       yep, the whole thing, no bap 😎. Got questions? Hit me up 📩😂                                                                            ║
+║                                                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
